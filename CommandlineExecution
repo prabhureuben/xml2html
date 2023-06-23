@@ -1,0 +1,14 @@
+
+C:\Users\Prabu\eclipse-workspace\xml2html\src\main\java>cd xml2html
+
+C:\Users\Prabu\eclipse-workspace\xml2html\src\main\java\xml2html>javac xml2html.java
+
+C:\Users\Prabu\eclipse-workspace\xml2html\src\main\java\xml2html>cd ..
+
+C:\Users\Prabu\eclipse-workspace\xml2html\src\main\java>java xml2html.xml2html
+XML to HTML conversion completed successfully.
+
+C:\Users\Prabu\eclipse-workspace\xml2html\src\main\java>java xml2html.xml2html
+XML to HTML conversion completed successfully.
+
+C:\Users\Prabu\eclipse-workspace\xml2html\src\main\java>
