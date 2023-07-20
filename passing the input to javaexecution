@@ -1,0 +1,5 @@
+Javac E:\Jenkins\xml2html-main\xml2html-main\xml2html\src\main\java\xml2html\xml2html.java
+
+Java E:\Jenkins\xml2html-main\xml2html-main\xml2html\src\main\java\xml2html\xml2html.java results.xml
+
+COPY "E:\\Jenkins\\results.html"
